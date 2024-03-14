@@ -26,6 +26,29 @@ The Grab n Go website is deployed and accessible at [https://bdeekshith066.githu
 2. Explore the categories, menu, add items to the cart, and proceed with the checkout process.
 3. Utilize WhatsApp authentication and chat features for enhanced security and communication.
 
+
+## To run Grab n Go on your system, follow these steps:
+
+1. **Clone the Repository:**  
+   Clone the Grab n Go repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/bdeekshith066/Grab-n-Go.git
+   ```
+
+2. **Navigate to the Project Directory:**  
+   Change your current directory to the Grab n Go project directory:
+
+   ```bash
+   cd Grab-n-Go
+   ```
+
+3. **Run the Application:**  
+   Open the `index.html` file in your preferred web browser.
+.
+
+That's it! You should now be able to access and use Grab n Go on your local system. Enjoy ordering your favorite meals! 🍔🥗🍰
+
 ## Contributing
 
 Contributions to Grab n Go are welcome! We appreciate any improvements or features you may add. Simply open a pull request, and we'll review it as soon as possible. Thank you for your interest in contributing!
